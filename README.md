@@ -4,6 +4,8 @@ Computer Engineering Final Project — Facens, 2025
 
 Hybrid computer vision pipeline combining **YOLO + Faster R-CNN + OCR** to automatically detect and read license plates from surveillance camera footage, with application in stolen vehicle identification.
 
+> Full-stack implementation: [PlateDetectionForStolenVehicles](https://github.com/ArnaldSouza/PlateDetectionForStolenVehicles)
+
 ---
 
 ## Results
@@ -52,8 +54,9 @@ Split: 40% train / 20% validation / 40% test
 
 ## Authors
 
-- Arnald Souza
-- Bruno Gabriel de Oliveira Targa
-- Victor Soares Nunes Pires de Oliveira
+## Authors
+- Arnald Souza · [LinkedIn](https://www.linkedin.com/in/arnaldsouza/) · [GitHub](https://github.com/ArnaldSouza)
+- Bruno Gabriel de Oliveira Targa · [LinkedIn](https://www.linkedin.com/in/brunotarga/)
+- Victor Soares Nunes Pires de Oliveira · [LinkedIn](https://www.linkedin.com/in/victorpioli/)
 
 Advisor: Prof. Allan Marconato Marum — Centro Universitário Facens
